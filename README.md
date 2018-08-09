@@ -32,6 +32,9 @@ Under src/
 10) press "Enter" to record this as new target image, you can reload
 	other source images and go to step 3). 
 
+** Interface Example    
+<img src="./images/interface.jpg" alt="Example of Interface"/>
+
 Introduction
 ---------------------------------------------
 * MVC blending:
