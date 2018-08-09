@@ -41,3 +41,7 @@ Introduction
 * selective edge:
   using Grabcut to refine image boundary(foreground extraction)
 
+Real Example
+---------------------------------------------
+<img src="./images/foreground_extract.jpg" alt="Foreground cutting specified by user"/>
+<img src="./images/blending.jpg" alt="Blending by Possoin algorithm"/>
